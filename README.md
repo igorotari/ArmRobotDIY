@@ -1,4 +1,4 @@
 # ArmRobotDIY
 How I assembled and programmed the robot arm
 
-![image](/pictures/demonstration.gif)
+![image](/94i0qr.gif)
