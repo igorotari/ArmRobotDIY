@@ -17,7 +17,7 @@ As part of an assignment during my time at the enterprise **СПКБ Техно*
 - **Keyestudio 4DOF Robot Arm Kit**
 - **Servo motors** – used for controlling the arm's joints and claw(these was in the complect with Keyestudio 4DOF Robot Arm Kit)
 - **Jumper wires and breadboard** – for connecting the components(all these also was in the complect with Keyestudio 4DOF Robot Arm Kit)
-- **Arduino IDE** – software for programming the Arduino board([here](https://www.arduino.cc/en/software).)
+- **Arduino IDE** – software for programming the Arduino board [here](https://www.arduino.cc/en/software).
 
 ### Project Workflow
 
