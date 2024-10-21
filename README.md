@@ -1,13 +1,10 @@
-# ArmRobotDIY
-How I assembled and programmed the robot arm
+# Robotic Arm Project 🤖
+
+Welcome to my **Robotic Arm Project**! This project demonstrates how I programmed a robotic arm using servos and an Arduino board to pick up and move objects between two locations in a loop. 🚀
 
 <p align="center">
   <img width="400" height="650" src="https://github.com/igorotari/ArmRobotDIY/blob/main/94i0qr.gif">
 </p>
-
-# Robotic Arm Project 🤖
-
-Welcome to my **Robotic Arm Project**! This project demonstrates how I programmed a robotic arm using servos and an Arduino board to pick up and move objects between two locations in a loop. 🚀
 
 ## How I Put It All Together
 
