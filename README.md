@@ -27,15 +27,6 @@ The main logic lies in the `loop()` function, where the arm continuously picks u
 ### 📜 Summary
 This project was a fun way to learn about servo motors and Arduino programming. I enjoyed figuring out how to coordinate the movements and make the robotic arm perform repetitive tasks like a real industrial robot!
 
-Check out the code and give it a try! Feel free to modify the movements or add more functionality to the arm.
-
-## 🚀 Future Improvements
-In the future, I plan to:
-- Add more complex movements.
-- Use sensors to detect objects automatically.
-- Improve the arm’s precision.
-
-Stay tuned for updates!
-
+Check out the code and may be give it a try)
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by Igorotari
