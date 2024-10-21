@@ -2,7 +2,7 @@
 How I assembled and programmed the robot arm
 
 <p align="center">
-  <img width="400" height="250" src="https://github.com/igorotari/ArmRobotDIY/blob/main/94i0qr.gif">
+  <img width="400" height="750" src="https://github.com/igorotari/ArmRobotDIY/blob/main/94i0qr.gif">
 </p>
 
 # Robotic Arm Project 🤖
